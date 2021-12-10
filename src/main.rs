@@ -156,8 +156,8 @@ impl Application for GUI {
         };
 
         //prepare duration text
-        let tick_text = Text::new(duration_text).font(FONT).size(60);
         //init widgets
+        let tick_text = Text::new(duration_text).font(FONT).size(60);
         let start_stop_button = Button::new(&mut self.start_stop_button_state, start_stop_text)
             .min_width(80)
             .on_press(start_stop_message);
