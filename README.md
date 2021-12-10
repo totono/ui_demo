@@ -2,4 +2,9 @@
 
 実践Rustプログラミング入門の写経
 
-ストップウォッチ
+ストップウォッチ    
+  
+使用フォント
+
+M+ BITMAP FONTS  
+https://itouhiro.hatenablog.com/entry/20130602/font
