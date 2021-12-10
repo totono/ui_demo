@@ -2568,6 +2568,7 @@ dependencies = [
  "async-std",
  "iced",
  "iced_futures",
+ "iced_native",
 ]
 
 [[package]]
